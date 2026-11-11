@@ -1,0 +1,8 @@
+{
+  "name": "Rajawali Medical Simulation — Efek Samping Obat",
+  "description": "Simulasi 3D interaktif rumah sakit modern untuk pembelajaran efek samping obat (ESO) mahasiswa keperawatan Institut Kesehatan Rajawali oleh dr. Juwita Ninda Suherman, M.Kes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
